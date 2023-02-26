@@ -1,6 +1,7 @@
 #!/bin/bash
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALx school is so cool!"
 =======
 echo "The school is open"
@@ -8,3 +9,6 @@ echo "The school is open"
 =======
 echo "The school is open"
 >>>>>>> e2a927d2ac4daf350a7d20052e6fa72cf5954d88
+=======
+echo "The school is open!"
+>>>>>>> 1ccc27e70f9492ece4a6bb028e38b41363f0e83c
